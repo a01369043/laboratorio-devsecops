@@ -1,4 +1,4 @@
-# Manifiesto educativo para auditoría SCA; NO instalar.
-# Dependencia de un componente hipotético, no importada por src/.
-requests==2.19.1
-urllib3>=2.8.0
+pytest>=8.0,<10
+bandit>=1.7,<2
+pip-audit>=2.7,<3
+urllib3>=1.26.19,<2
