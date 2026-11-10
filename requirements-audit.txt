@@ -1,3 +1,4 @@
 # Manifiesto educativo para auditoría SCA; NO instalar.
 # Dependencia de un componente hipotético, no importada por src/.
 requests==2.19.1
+urllib3>=2.8.0
